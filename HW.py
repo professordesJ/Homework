@@ -1,2 +1,2 @@
 __author__ = 'des'
-print('hello world')
+print('hello Ghana and hello world')
